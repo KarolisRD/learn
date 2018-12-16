@@ -1,3 +1,3 @@
 module.exports = () => {
-	console.log('name again');
+	console.log('test if works on the server');
 }
